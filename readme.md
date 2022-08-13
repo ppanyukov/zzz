@@ -1,5 +1,6 @@
 Sample repository
 
+Another bug fix
 
 Revision Control System
 
